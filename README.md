@@ -6,16 +6,19 @@
 
 
 <div align="center">
-
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=HTML+%7C+CSS+%7C+JavaScript+%7C+TypeScript;React+%7C+Interfaces+Modernas;Criando+experi%C3%AAncias+digitais+responsivas" />
-
-</div> 
-<div align="center">
-
-✦ ──────────────── ✦ ──────────────── ✦
-
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=650&lines=HTML+%7C+CSS+%7C+JavaScript+%7C+TypeScript;React+%7C+Interfaces+modernas+e+responsivas;Transformando+ideias+em+experi%C3%AAncias+digitais+%E2%9C%A8;Sempre+aprendendo+algo+novo+%F0%9F%9A%80"
+    alt="Typing SVG"
+  />
 </div>
+
+<br>
+
+<div align="center">
+  ✦ ─────────────── ✦ ─────────────── ✦
+</div>
+
+<br>
 
 
 <h2 align="left"> 👩‍💻 Sobre mim </h2>
