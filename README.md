@@ -50,15 +50,7 @@
   🧩 Componentização e boas práticas no Front-end<br>
   📱 Desenvolvimento de interfaces responsivas<br>
   🎨 UI/UX aplicado ao desenvolvimento web
-</p>
-
-<p>
-  ⚛️ Aprofundando meus conhecimentos em React e TypeScript<br>
-  🔗 Consumo e integração de APIs REST<br>
-  🧩 Componentização e boas práticas no Front-end<br>
-  📱 Desenvolvimento de interfaces responsivas<br>
-  🎨 UI/UX aplicado ao desenvolvimento web
-</p>
+</p> 
 
 <h2>💻 Um pouco sobre meu universo</h2>
 
