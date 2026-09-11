@@ -1,12 +1,18 @@
-<h1 align="centetr">Olá! Eu sou a Laryssa Souza 👋</h1>
+<div align="center">
 
-<h3 align="center">
-Front-end Developer em formação 💻
-</h3>
+# ✦ Olá, eu sou a Laryssa Souza
 
-<p align="center">
-Criando interfaces modernas, responsivas e experiências digitais através do código.
-</p>
+### Front-end Developer em formação 💻
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=HTML+%7C+CSS+%7C+JavaScript+%7C+TypeScript;React+%7C+Interfaces+Modernas;Criando+experi%C3%AAncias+digitais+responsivas" />
+
+</div> 
+<div align="center">
+
+✦ ──────────────── ✦ ──────────────── ✦
+
+</div>
+
 
 <h2 align="left"> 👩‍💻 Sobre mim </h2>
 
