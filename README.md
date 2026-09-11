@@ -30,3 +30,14 @@ Criando interfaces modernas, responsivas e experiências digitais através do c�
 
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,git,github,vscode,figma" />
 </div>
+
+<h2>📚 Atualmente estudando</h2>
+
+<p>
+  ⚛️ Aprofundando meus conhecimentos em React e TypeScript<br>
+  🔗 Consumo e integração de APIs REST<br>
+  🧩 Componentização e boas práticas no Front-end<br>
+  📱 Desenvolvimento de interfaces responsivas<br>
+  🎨 UI/UX aplicado ao desenvolvimento web
+</p>
+
