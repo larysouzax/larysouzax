@@ -33,6 +33,22 @@ Criando interfaces modernas, responsivas e experiências digitais através do c�
 
 <h2>📚 Atualmente estudando</h2>
 
+<h2>📊 GitHub Stats</h2>
+
+<div align="center">
+
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api?username=larysouzax&show_icons=true&hide_border=true&theme=transparent"
+  />
+
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=larysouzax&layout=compact&hide_border=true&theme=transparent"
+  />
+
+</div>
+
 <p>
   ⚛️ Aprofundando meus conhecimentos em React e TypeScript<br>
   🔗 Consumo e integração de APIs REST<br>
