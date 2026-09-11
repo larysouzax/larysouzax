@@ -71,4 +71,16 @@ const laryssa = {
   desafioAtual: "Transformar ideias em experiências digitais ✨"
 };
 ```
+<h2>🗺️ Minha Jornada Front-end</h2>
 
+<div align="center">
+
+`HTML` → `CSS` → `JavaScript` → `TypeScript` → `React` → `APIs REST` → `Next.js`
+
+<br><br>
+
+🌱 <b>Construindo minha base, evoluindo um projeto de cada vez.</b>
+
+</div>
+
+<br>
