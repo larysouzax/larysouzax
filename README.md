@@ -30,12 +30,11 @@
   design, organização e funcionalidade.
 </p>
 
-<h2 align="left"> 🚀 Tech Stack </h2>
+<h2>⚡ Tech Stack</h2>
 
-<div align="left">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,git,github,vscode,figma" />
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,git,github,vscode,figma" />
+</p>
 
 <h2>📚 Atualmente estudando</h2>
 <p>
@@ -46,22 +45,6 @@
   🎨 UI/UX aplicado ao desenvolvimento web
 </p>
 
-<h2>📊 GitHub Stats</h2>
-
-<div align="center">
-
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api?username=larysouzax&show_icons=true&hide_border=true&theme=transparent"
-  />
-
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=larysouzax&layout=compact&hide_border=true&theme=transparent"
-  />
-
-</div>
-
 <p>
   ⚛️ Aprofundando meus conhecimentos em React e TypeScript<br>
   🔗 Consumo e integração de APIs REST<br>
@@ -69,4 +52,16 @@
   📱 Desenvolvimento de interfaces responsivas<br>
   🎨 UI/UX aplicado ao desenvolvimento web
 </p>
+
+<h2>💻 Um pouco sobre meu universo</h2>
+
+```javascript
+const laryssa = {
+  foco: "Front-end Development",
+  code: ["HTML", "CSS", "JavaScript", "TypeScript"],
+  framework: ["React"],
+  aprendendo: ["APIs REST", "UI/UX", "Responsividade"],
+  desafioAtual: "Transformar ideias em experiências digitais ✨"
+};
+```
 
