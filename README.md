@@ -7,9 +7,6 @@
 
 <div align="center">
 
-# ✦ Olá, eu sou a Laryssa Souza
-
-### Front-end Developer em formação 💻
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=HTML+%7C+CSS+%7C+JavaScript+%7C+TypeScript;React+%7C+Interfaces+Modernas;Criando+experi%C3%AAncias+digitais+responsivas" />
 
