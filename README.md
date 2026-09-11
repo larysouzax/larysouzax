@@ -1,4 +1,11 @@
 <div align="center">
+  <img src="banner-github.png" width="100%" alt="Banner Laryssa Souza - Front-end Developer">
+</div>
+
+<br>
+
+
+<div align="center">
 
 # ✦ Olá, eu sou a Laryssa Souza
 
