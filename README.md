@@ -23,3 +23,10 @@ Criando interfaces modernas, responsivas e experiências digitais através do c�
   Meu objetivo é evoluir constantemente na área de Front-end e desenvolver projetos que unam
   design, organização e funcionalidade.
 </p>
+
+<h2 align="left"> 🚀 Tech Stack </h2>
+
+<div align="left">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,git,github,vscode,figma" />
+</div>
